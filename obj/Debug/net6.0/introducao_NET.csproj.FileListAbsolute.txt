@@ -1,0 +1,15 @@
+C:\Users\Laura\Desktop\resumos-NET-C#\introducao_NET\bin\Debug\net6.0\introducao_NET.exe
+C:\Users\Laura\Desktop\resumos-NET-C#\introducao_NET\bin\Debug\net6.0\introducao_NET.deps.json
+C:\Users\Laura\Desktop\resumos-NET-C#\introducao_NET\bin\Debug\net6.0\introducao_NET.runtimeconfig.json
+C:\Users\Laura\Desktop\resumos-NET-C#\introducao_NET\bin\Debug\net6.0\introducao_NET.dll
+C:\Users\Laura\Desktop\resumos-NET-C#\introducao_NET\bin\Debug\net6.0\introducao_NET.pdb
+C:\Users\Laura\Desktop\resumos-NET-C#\introducao_NET\obj\Debug\net6.0\introducao_NET.csproj.AssemblyReference.cache
+C:\Users\Laura\Desktop\resumos-NET-C#\introducao_NET\obj\Debug\net6.0\introducao_NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura\Desktop\resumos-NET-C#\introducao_NET\obj\Debug\net6.0\introducao_NET.AssemblyInfoInputs.cache
+C:\Users\Laura\Desktop\resumos-NET-C#\introducao_NET\obj\Debug\net6.0\introducao_NET.AssemblyInfo.cs
+C:\Users\Laura\Desktop\resumos-NET-C#\introducao_NET\obj\Debug\net6.0\introducao_NET.csproj.CoreCompileInputs.cache
+C:\Users\Laura\Desktop\resumos-NET-C#\introducao_NET\obj\Debug\net6.0\introducao_NET.dll
+C:\Users\Laura\Desktop\resumos-NET-C#\introducao_NET\obj\Debug\net6.0\refint\introducao_NET.dll
+C:\Users\Laura\Desktop\resumos-NET-C#\introducao_NET\obj\Debug\net6.0\introducao_NET.pdb
+C:\Users\Laura\Desktop\resumos-NET-C#\introducao_NET\obj\Debug\net6.0\introducao_NET.genruntimeconfig.cache
+C:\Users\Laura\Desktop\resumos-NET-C#\introducao_NET\obj\Debug\net6.0\ref\introducao_NET.dll

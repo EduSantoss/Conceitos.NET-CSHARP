@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+<!-- metadados : configurações de como o projeto deve se comportar-->
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
