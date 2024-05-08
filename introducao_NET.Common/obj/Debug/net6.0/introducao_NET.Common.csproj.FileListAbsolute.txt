@@ -1,0 +1,12 @@
+C:\Users\Laura\Desktop\resumos-NET-C#\introducao_NET\introducao_NET.Common\bin\Debug\net6.0\introducao_NET.Common.deps.json
+C:\Users\Laura\Desktop\resumos-NET-C#\introducao_NET\introducao_NET.Common\bin\Debug\net6.0\introducao_NET.Common.dll
+C:\Users\Laura\Desktop\resumos-NET-C#\introducao_NET\introducao_NET.Common\bin\Debug\net6.0\introducao_NET.Common.pdb
+C:\Users\Laura\Desktop\resumos-NET-C#\introducao_NET\introducao_NET.Common\obj\Debug\net6.0\introducao_NET.Common.csproj.AssemblyReference.cache
+C:\Users\Laura\Desktop\resumos-NET-C#\introducao_NET\introducao_NET.Common\obj\Debug\net6.0\introducao_NET.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura\Desktop\resumos-NET-C#\introducao_NET\introducao_NET.Common\obj\Debug\net6.0\introducao_NET.Common.AssemblyInfoInputs.cache
+C:\Users\Laura\Desktop\resumos-NET-C#\introducao_NET\introducao_NET.Common\obj\Debug\net6.0\introducao_NET.Common.AssemblyInfo.cs
+C:\Users\Laura\Desktop\resumos-NET-C#\introducao_NET\introducao_NET.Common\obj\Debug\net6.0\introducao_NET.Common.csproj.CoreCompileInputs.cache
+C:\Users\Laura\Desktop\resumos-NET-C#\introducao_NET\introducao_NET.Common\obj\Debug\net6.0\introducao_NET.Common.dll
+C:\Users\Laura\Desktop\resumos-NET-C#\introducao_NET\introducao_NET.Common\obj\Debug\net6.0\refint\introducao_NET.Common.dll
+C:\Users\Laura\Desktop\resumos-NET-C#\introducao_NET\introducao_NET.Common\obj\Debug\net6.0\introducao_NET.Common.pdb
+C:\Users\Laura\Desktop\resumos-NET-C#\introducao_NET\introducao_NET.Common\obj\Debug\net6.0\ref\introducao_NET.Common.dll

@@ -120,10 +120,61 @@ Repositório para armazenar resumos sobre .NET e C#.
 
 ### Laços de Repetição
 
-| Laço | o que faz |
+| Laço | Funcionamento |
 |------|-----------|
 | For | realizado para métricas especificas |
 | While | realizado enquanto uma condição for verdadeira |
+
+### .NET5 E .NET6
+
+-> No .NET6 em diante, existe um metodo main que não aparece pois está escondido.
+-> Em Versões antigas esse metodo fica explícito.
+
+```
+Em .NET5
+using System;
+
+namespace introducao_NET5.NET5
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Writeline("Hello World");
+        }
+    }
+}
+```
+```
+Em .NET6 
+Console.Writeline("Hello World");
+```
+### Array e Listas
+
+-> o array é uma estrutura de dados que armazena valores do mesmo tipo, com um tamanho fixo.
+
+-> Formas de passar o array:
+1. int[] array = new int[4];
+2. int[] array = new int[] {42, 75, 74, 61}; -> nesse caso pode emitir o 4 já que foram passados os valores.
+3. string[] nomes = {"jan", "fev"};
+
+-> índice: posição de um determinado valor de um array, sempre começando com zero.
+
+| posição | valores |
+|---------|---------|
+| 0 | 42 |
+| 1 | 75 |
+| 2 | 74 |
+| 3 | 61 |
+
+1. int elemento = array[0];
+2. array[0] = 42;
+
+-> Listas são basicamente a extensão de um array, não precisando declarar o seu tamanho, e possuindo muito mais metódos para manusear o seu conteudo.
+
+-> Como declarar uma lista: 
+List<string> listaString = new List<string>();
+
 
 ## 🔍 Referências
 - [Digital Innovation One]().

@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+<!-- metadados : configurações de como o projeto deve se comportar-->
+  <ItemGroup>
+  <!-- lembrar de referenciar o projeto com as pastas em comum -->
+    <ProjectReference Include="..\introducao_NET.Common\introducao_NET.Common.csproj" />
+  </ItemGroup>
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
