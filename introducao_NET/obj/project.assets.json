@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Laura\\Desktop\\resumos-NET-C#\\introducao_NET\\introducao_NET\\introducao_NET.csproj",
+      "projectUniqueName": "C:\\Users\\Laura\\Desktop\\resumos-NET-C#\\introducao_NET\\introducao_NET\\introducao_NET.csproj",
       "projectName": "introducao_NET",
-      "projectPath": "c:\\Users\\Laura\\Desktop\\resumos-NET-C#\\introducao_NET\\introducao_NET\\introducao_NET.csproj",
+      "projectPath": "C:\\Users\\Laura\\Desktop\\resumos-NET-C#\\introducao_NET\\introducao_NET\\introducao_NET.csproj",
       "packagesPath": "C:\\Users\\Laura\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Laura\\Desktop\\resumos-NET-C#\\introducao_NET\\introducao_NET\\obj\\",
+      "outputPath": "C:\\Users\\Laura\\Desktop\\resumos-NET-C#\\introducao_NET\\introducao_NET\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Laura\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,8 +51,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "c:\\Users\\Laura\\Desktop\\resumos-NET-C#\\introducao_NET\\introducao_NET.Common\\introducao_NET.Common.csproj": {
-              "projectPath": "c:\\Users\\Laura\\Desktop\\resumos-NET-C#\\introducao_NET\\introducao_NET.Common\\introducao_NET.Common.csproj"
+            "C:\\Users\\Laura\\Desktop\\resumos-NET-C#\\introducao_NET\\introducao_NET.Common\\introducao_NET.Common.csproj": {
+              "projectPath": "C:\\Users\\Laura\\Desktop\\resumos-NET-C#\\introducao_NET\\introducao_NET.Common\\introducao_NET.Common.csproj"
             }
           }
         }

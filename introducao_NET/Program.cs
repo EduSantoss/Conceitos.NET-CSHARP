@@ -160,7 +160,7 @@
 
 //      // junta valores
 //      soma += numero;
-     
+
 
 // } while(numero != 0);
 
@@ -224,7 +224,7 @@ Array.Resize(ref arrayInteiros, arrayInteiros.Length * 2);
 
 
 Console.WriteLine("Percorrendo o Array com o FOR");
-for(int contador = 0; contador < arrayInteiros.Length; contador++)
+for (int contador = 0; contador < arrayInteiros.Length; contador++)
 {
      Console.WriteLine($"Posição N° {contador} -> {arrayInteiros[contador]}");
 }
@@ -240,12 +240,29 @@ for(int contador = 0; contador < arrayInteiros.Length; contador++)
 
 // declarando uma lista -> basicamente uma extensão para um array melhorado, não é preciso definir o tamanho, mais fácil de manusear
 
-List<string> listaString = new List<string>();
+List<string?> itens = new List<string?>(3);
+
+// TODO: Solicite os itens ao usuário
+for (int contador = 0; contador < itens.Capacity; contador++)
+{
+     itens.Add(Console.ReadLine());
+}
+
+// Exibe a lista de itens
+Console.WriteLine("Lista de itens:");
+foreach (string? item in itens)
+{
+     Console.WriteLine($"- {item}");
+}
+
+List<string> listaString = new List<string>(3);
 
 listaString.Add("SP");
 listaString.Add("BA");
 listaString.Add("MG");
 listaString.Add("RJ");
+
+//listaString.Add(Console.ReadLine());
 
 // debugando e vendo o funcionamento de uma lista
 Console.WriteLine($"Itens na minha lista: {listaString.Count} -> Capacidade: {listaString.Capacity}");
@@ -270,6 +287,7 @@ foreach (string item in listaString)
      Console.WriteLine($"Posição N° {contadorForeach} -> {item}");
      contadorForeach++;
 }
+
 
 
 
